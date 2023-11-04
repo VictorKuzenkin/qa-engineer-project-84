@@ -36,3 +36,9 @@
   status: pass
 
 - summary: |
+    Добавление товара в корзину с главной страницы
+  status: pass
+
+- summary: |
+    Удаление товаров из корзины
+  status: pass
