@@ -78,3 +78,12 @@
 - summary: |
     Сброс фильтра по цене
   status: pass
+
+- summary: |
+    Включение фильтра "В наличии"
+  status: pass
+
+- summary: |
+    Сброс фильтра "В наличии"
+  status: fail
+
