@@ -97,7 +97,7 @@
   prerequisites:
     Поставлена галочка в фильтре "В наличии"
   test-data:
-    empty:
+    empty
   steps:
     - Выключить чекбокс "В наличии"
   expected-result:
