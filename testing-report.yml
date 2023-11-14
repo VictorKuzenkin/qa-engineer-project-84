@@ -36,12 +36,12 @@
   status: fail
 
 - summary: |
-    Включение фильтра "В наличии"
-  status: pass
-
-- summary: |
     Сброс фильтра "В наличии"
   status: fail
+
+- summary: |
+    Включение фильтра "В наличии"
+  status: pass
 
 - summary: |
     Просмотр карточки товара
