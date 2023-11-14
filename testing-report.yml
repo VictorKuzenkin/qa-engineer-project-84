@@ -24,6 +24,14 @@
   status: pass
 
 - summary: |
+    Проверка фильтрации по минимальной цене
+  status: fail
+
+- summary: |
+    Проверка фильтрации по максимальной цене
+  status: fail
+
+- summary: |
     Проверка фильтрации товаров по цене
   status: fail
 
