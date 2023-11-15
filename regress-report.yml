@@ -73,6 +73,34 @@ test-cases:
     status: pass
 
   - summary: |
+      Удаление из корзины по кнопке напротив товара и выход через "Продолжить покупки"
+    status: pass
+
+  - summary: |
+      Удаление из корзины по кнопке напротив товара и выход через Backspace
+    status: pass
+
+  - summary: |
+      Удаление из корзины по кнопке напротив товара и выход через "Магазин"
+    status: pass
+
+  - summary: |
+      Очищение корзины и выход через "Продолжить покупки"
+    status: pass
+
+  - summary: |
+      Очищение корзины и выход через Backspace
+    status: pass
+
+  - summary: |
+      Очищение корзины и выход через "Магазин"
+    status: fail
+
+  - summary: |
+      Проверка успешного заказа товара
+    status: fail
+
+  - summary: |
       
 
 bugreports:
